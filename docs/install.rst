@@ -11,9 +11,9 @@ Installation
 
 .. code:: python
 
-    pip install django-jet
+    pip install django-3-jet
     # or
-    easy_install django-jet
+    easy_install django-3-jet
 
 * Add 'jet' application to the INSTALLED_APPS setting of your Django project settings.py file (note it should be before 'django.contrib.admin'):
 
